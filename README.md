@@ -1,4 +1,6 @@
 Riker
+[![Unsupported](https://img.shields.io/badge/Pantheon-Unsupported-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#unsupported)
+
 -----
 gRPC distributed Chat bot. Riker is the server that other apps register commands
 with. We call the command providers `redshirts`. Riker handles the complexity of
